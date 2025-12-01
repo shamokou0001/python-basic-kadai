@@ -1,0 +1,5 @@
+up_line=10
+under_line=20
+hight_laine=5
+
+print(f"台形の面積は{(up_line + under_line)*hight_laine/2}+cm²")
